@@ -10,6 +10,12 @@ tags:
   - Slogan
   - Company Brief
 ---
+<!--StartFragment-->
+
+!["No Coffee, No Work"](blob:https://blog.cubeblue.net/b0875ccc-2954-43f8-ba5f-0f73190afbec "이렇게 일하는 환경을 만들어가고 있습니다")
+
+<!--EndFragment-->
+
 > #### **"No Coffee, No Work"**
 
 \
